@@ -35,7 +35,7 @@ npm run start
 
 ### Video Guide Link
     
-[Video Guide]()
+[Video Guide](https://youtu.be/qJ2SfFcYUrM)
 
 ## License
 
